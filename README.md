@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @joaooozw
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+termux-setup-storage
 
-<!---
-joaooozw/joaooozw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+pkg instalar git
+
+pkg instalar ffmpeg
+
+pkg instalar wget
+
+pacote instalar nodejs
+
+pacote instalar npm
+
+git clone https://github.com/BigBraim/BigBraim.git
+
+cd Big Braim
+
+bash install.sh
